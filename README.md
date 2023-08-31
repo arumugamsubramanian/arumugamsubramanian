@@ -12,7 +12,7 @@ Implementation of DevOps tools chains to enable the continuous release and autom
 
 Hands-on experience with tools like Git, Subversion, Jenkins, Bamboo, TeamCity, Nexus Repository, Android Studio, XCode, uDeploy, Puppet, Chef, HP Operations Orchestration, HP Server Automation, HP Cloud Service Automation, Jira Agile Software, Apache Ivy, Ant, Gradle, Crucible, FishEye, Sonar, Selenium, FitNesse, WebSphere, VMware, vCenter Server, Docker, Kubernetes, AWS, Azure
 
-✍️ Portfolio: arumugam.me
+✍️ Portfolio: https://arumugam.me
 
 ✍️ Visit my tech blog: https://arumugamsubramanian.hashnode.dev/ (Coming Soon)
 
